@@ -3,7 +3,24 @@
 Are you looking to navigate the ever-evolving world of Backend development? Whether you're a beginner or an experienced developer, understanding the key technologies, tools, and concepts that are essential for success is crucial. This comprehensive roadmap provides you with a clear direction for your learning journey and covers the core aspects of Backend development.
 </p>
 <img align="center" src="https://github.com/Mohamed20a/Backend-Roadmap/blob/main/Backend_Roadmap%20_.jpg">
-<!-- ![Backend Roadmap Explination](Backend_Roadmap%20_.jpg) -->
+
+<h2 id="goodToKnow"><b>Good To Know</b></h2>
+
+This roadmap assumes that You have already studied the following topics:
+
+- At least **one** programming language, such as **JavaScript**, **C++**, or **Java**, and a basic understanding of the concepts of programming, such as variables, loops, and functions.
+- Fundamental of **Algorithms** and **Data Structures**, such as Big O Notation, Arrays, Linked Lists, Stacks, Queues, Sorting, and Searching.
+- Understanding of **Object-Oriented Programming** (OOP) concepts, such as classes, inheritance, and polymorphism.
+
+Here are some resources to learn these topics:
+
+- [FreeCodeCamp - Introduction to Programming and Computer Science](https://youtu.be/zOjov-2OZ0E) | English
+- [FreeCodeCamp - C++ Tutorial for Beginners](https://youtu.be/vLnPwxZdW4Y) | English
+- [Elzero Web School - Fundamentals Of Programming With C++](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | Arabic
+- [Abdelrahman Gamal - CS50 course](https://youtube.com/playlist?list=PLknwEmKsW8OvMsFbU9zo8oJCprAsgc4LO&si=un9Eynlugg8EUQVI) | Arabic
+- [FreeCodeCamp - Algorithms and Data Structures](https://youtu.be/8hly31xKli0) | English
+- [Adel Nasim - Data Structures Full Course](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) | Arabic
+- [Omar Ahmed - OOP - بالعربي](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) | Arabic
 
 ## General Index:
 
