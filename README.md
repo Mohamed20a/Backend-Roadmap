@@ -297,7 +297,7 @@ OR
   <summary>HTML & CSS Course With Two Projects</summary>
 
 
-📹 [The Complete HTML & CSS Course and Projects in Udemy]([https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji](https://www.udemy.com/course/the-complete-html-css-and-projects/learn/lecture/40260358?referralCode=87AE473FEAB17439152B))
+📹 [The Complete HTML & CSS Course and Projects in Udemy](https://www.udemy.com/course/the-complete-html-css-and-projects/learn/lecture/40260358?referralCode=87AE473FEAB17439152B)
 
 </details>
 
